@@ -1,4 +1,4 @@
-# Add your intgration to the I2T Hub
+# Add your integration to the I2T Hub
 
 If you have code to integrate an IoT device with IOTA Streams and you think it could be of value, [**submit an issue here**](https://github.com/iot2tangle/integrations/issues) linking to the code and explaining how to test it. 
 
