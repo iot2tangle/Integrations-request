@@ -1,5 +1,7 @@
 # Add your integration to the I2T Hub
 
+![Share your integration](https://iot2tangle.io/assets/screenshots/i2t-jumbotron.jpg)
+
 If you have code to integrate an IoT device with IOTA Streams and you think it could be of value, [**submit an issue here**](https://github.com/iot2tangle/integrations/issues) linking to the code and explaining how to test it. 
 
 Keep in mind that your work will have to meet two conditions:
