@@ -9,6 +9,8 @@ Keep in mind that your work will have to meet two conditions:
 - Easy step by step guide Readme 
 - Use the I2T Standard for datasets
 
+You can join our Discord Server at [**discord.iot2tangle.io**](https://discord.iot2tangle.io) if you have any doubts or need help.
+
 ## The I2T Standard for datasets
 
 Our Rust Gateway will listen and publish to the Tangle via Streams any data produced by IoT devices, as long as it uses 
